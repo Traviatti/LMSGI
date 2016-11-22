@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es" xml:lang="es">
+
+ <head>
+ <title>Proyecto Lunar</title>
+ <meta name="Tarea Proyecto Lunar" content="Aplicación Web">
+ <meta charset="UTF-8">
+ <style type="text/css">
+ 	#izquierda,#navediv{text-align:center;float:left;width:33.33%}#abajo,#arriba{width:40px;height:40px}#derecha,#izquierda,#navediv,ul{width:33.33%}#suelo,ul{position:fixed}li a,ul{background-color:#9DAC03}body,html{height:100%;padding:0;margin:0}body{background:url(img/espacio.jpg)}#izquierda{height:150px;color:#000}#derecha{height:170px;text-align:center;float:right}#suelo{height:10%;width:100%;bottom:0;color:#fff;background-color:#949494}#navediv{top:5%}#naveimg{height:20%}#arriba{background:url(img/flechas.png)}#abajo{background:url(img/flechas.png) -40px 0}.linea{padding:18px 16px}ul{list-style-type:none;margin:0;padding:0;height:212px;overflow:auto}li a{display:block;padding:8px 16px;text-decoration:none}li a.active{background-color:#050132;color:#fff}li a:hover:not(.active),li a:visited a:active{background-color:#555;color:#fff}a,a:active,a:visited{color:#000;text-decoration:none}a:hover{color:#6F0}
+ </style>
+ </head>
+ 
+ <body>
+ 
+<div id="izquierda">
+<ul>
+<li><a class="active">Panel de Control</a></li>
+<li class="linea">Velocidad: 10 px</li>
+<li class="linea">Nivel de Gasolina: 500 Kgs</li>
+<li class="linea">Altura: 300.520 ms</li>
+</ul>
+</div>
+
+<div id="navediv">
+<img id="naveimg" src="img/cohete.png" alt="cohete">
+</div>
+
+<div id="derecha">
+<ul>
+<li><a class="active">Opciones del Juego</a></li>
+<li><a href="#mover"><img id="arriba" src="img/img_trans.png" alt="transparente"><img id="abajo" src="img/img_trans.png" alt="transparente"></a></li>
+<li><a href="#pausa">Pausa</a></li>
+<li><a href="sobre.html" target="_self">Sobre el Juego</a></li>
+<li><a href="como.html" target="_self">Cómo Jugar</a></li>
+</ul>
+</div>
+
+<div id="suelo">
+
+</div>
+
+</body>
+</html>
