@@ -7,9 +7,9 @@ Una vez leido el contenido de la lección y evalucación de actividad, comenzamo
 
 ###A: Crear documentos:
 
-Lo primero que he creado han sido las carpetas "css" e "img", tras lo que he comenzado con el archivo principal html. Tras buscar la imagen de un cohete, he usado una página para modificar imágenes muy semejante a Photoshop y he recortado el cohete para hacerlo transparente. Tras tener el html básico, he comenzado con el CSS.
+Lo primero que he creado han sido las carpetas *css* e *img*, tras lo que he comenzado con el archivo principal html. Tras buscar la imagen de un cohete, he usado una página para modificar imágenes muy semejante a Photoshop y he recortado el cohete para hacerlo transparente. Tras tener el html básico, he comenzado con el CSS.
 
-Como se pedían otras páginas html, lo que he usado es la base del ficho index.html y style.css para copiarlas y crear nuevos documentos. Éstos han sido retocados para el diseño que quería mantener en ellos. Retocando sólo aquello que consideraba necesario.
+Como se pedían otras páginas html, lo que he usado es la base del fichero *index.html* y *style.css* para copiarlas y crear nuevos documentos. Éstos han sido retocados para el diseño que quería mantener en ellos. Retocando sólo aquello que consideraba necesario.
 Tras tener el diseño de las páginas, he pasado a trabajar en los sprites y después ha dar una alternativa para los dispositivos móviles.
 Por último he usado una página para optimizar el css y he creado una segunda carpeta en la que he puesto el CSS optimizado en el head del html.
 
