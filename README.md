@@ -44,6 +44,6 @@ Para esta parte de la tarea, he usado la cuenta que ya tenía registrada en la p
 
 [Página para Optimizar CSS](https://cssminifier.com/)
 
-[Página GitHub*](https://github.com/)
+[Página GitHub](https://github.com/)
 
  
