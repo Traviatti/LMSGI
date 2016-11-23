@@ -1,5 +1,5 @@
 #**LMSGI02Tarea**
-Para poder realizar la tarea, he comenzado por leer el tema incluido en  **Enlaces utilizados**:
+Para poder realizar la tarea, he comenzado por leer el tema incluido en  **Links utilizados**:
 
 Una vez leido el contenido de la lección y evalucación de actividad, comenzamos con la tarea.
 
