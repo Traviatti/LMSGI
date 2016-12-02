@@ -38,7 +38,7 @@ Para esta parte de la tarea, he usado la cuenta que ya tenía registrada en la p
 
 [Página Validación CSS](http://jigsaw.w3.org/css-validator/)
 
-[Página Retoques de imágenes](http://www.freephototool.com/)
+[Página Retoques de imágenes](https://pixlr.com/editor/)
 
 [Página Optimización de imágenes](http://www.imageoptimizer.net/Home.aspx)
 
